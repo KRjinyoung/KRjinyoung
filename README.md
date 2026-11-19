@@ -10,5 +10,3 @@
 </p>
 
 ---
-
-<p align="center"><i>Building systems that are fair, fast, and a little bit smart.</i></p>
